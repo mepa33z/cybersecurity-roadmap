@@ -88,6 +88,7 @@ Professionals in these roles handle immediate threat mitigation and contribute t
 Roles and Responsibilities
 
 Cybersecurity Manager: Develops and implements security policies, manages cybersecurity teams, ensures compliance, and leads incident response.
+
 Chief Information Security Officer (CISO): Sets cybersecurity strategy aligned with company goals, manages risk, oversees security technology deployment, promotes cybersecurity culture, and leads incident response at the executive level.
 
 Technical and Strategic Roles:

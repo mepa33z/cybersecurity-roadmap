@@ -98,6 +98,97 @@ Recovery Steps: Outline how to restore hardware and systems from backups and ver
 Testing and Training: Conduct regular drills and update the plan based on lessons learned to ensure readiness.
 
 
+Threat Types:
+
+This course item explains different types of cybersecurity threats, focusing on how attackers intercept data and disrupt networks.
+
+Snooping Attacks:
+
+Snooping involves intercepting data between devices, revealing sensitive information like logins and credit card numbers.
+Types include eavesdropping (packet-sniffing), man-in-the-middle (MITM) attacks, and replay attacks, often occurring on unsecured networks.
+
+Man-in-the-Middle and Replay Attacks:
+
+MITM attacks involve an attacker secretly intercepting communication between a victim and a recipient, either physically or logically.
+Replay attacks capture and retransmit data using stolen access tokens to impersonate trusted entities and hijack sessions.
+
+Cross-Site Scripting and SQL Injection:
+
+Cross-site scripting (XSS) injects malicious code into trusted websites, either via URLs or comment sections, to steal user data.
+SQL injection uses malicious SQL code to bypass website security, allowing attackers to access or delete database information.
+
+Botnets and Denial of Service Attacks:
+
+Botnets are networks of malware-infected computers controlled remotely to perform large-scale attacks or resource-intensive tasks like cryptomining.
+Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks overwhelm networks with traffic to cause crashes, with DDoS using botnets for greater impact.
+
+
+This course item explains impersonation attacks, social engineering, and related cyber threats, along with ways to minimize exposure to them.
+
+Types of Impersonation Attacks
+
+Public Wi-Fi traps ("Evil Twin") intercept user credentials by mimicking legitimate networks.
+Fake websites replicate real ones to steal login information.
+Social engineering involves pretending to be someone else to steal data or control systems.
+
+Social Engineering Techniques
+
+Shoulder surfing: spying on screens or keyboards in public places to capture sensitive data.
+Baiting: using physical or digital lures (e.g., USB sticks, online ads) to infect systems with malware.
+Pretexting: impersonating authority figures to pressure victims into revealing confidential information.
+Phishing: sending urgent emails or texts to trick victims into revealing credentials or installing malware.
+Consequences and Prevention
+
+Social engineering contributes to about 90% of security breaches.
+Stolen information can lead to identity theft and fraud.
+To reduce risk, avoid public Wi-Fi, never leave devices unattended, use privacy screens, keep personal info secure, use strong passwords, and monitor financial accounts regularly.
+
+
+This course content focuses on physical security as a critical component of overall cybersecurity, emphasizing protection of devices and infrastructure from physical threats and environmental hazards.
+
+Physical Security Fundamentals
+
+Physical security involves measures to protect computing devices and network infrastructure from theft, damage, or unauthorized access.
+It is essential because physical access can bypass many software-based security controls, making it the first line of defense.
+Key Tools and Best Practices
+
+Cable locks and USB locks help prevent device theft and unauthorized data access.
+Secure storage solutions and access control systems (e.g., key cards, biometrics) restrict entry to sensitive areas.
+
+Environmental and Access Controls
+
+Environmental protections include surge protectors, UPS, climate control, fire suppression, and water damage prevention.
+Proper workstation placement, screen privacy, mobile device security, and visitor management enhance physical security.
+
+Incident Response and Integration
+
+Incident response plans cover reporting, securing areas, and recovery steps like data restoration.
+Physical security should integrate with cybersecurity measures such as encryption and network access controls for comprehensive protection.
+
+
+This course content describes notable cybersecurity breaches and attack methods targeting major companies.
+
+Yahoo and Phishing Attacks:
+
+Yahoo suffered two major breaches by state-sponsored actors between 2013 and 2014, compromising billions of user records including personal details and security questions.
+A phishing attack in 2014 involved an employee clicking a malicious link, leading to the theft of 500 million account details, which were later sold on the black market.
+
+Equifax and Web Application Vulnerability:
+
+In 2017, Equifax experienced a breach due to failure to apply a critical software patch, exposing sensitive data of 148 million people.
+The breach went undetected for months, resulting in significant financial losses and reputational damage.
+
+Court Ventures and Social Engineering:
+
+Court Ventures, an Experian subsidiary, was compromised through social engineering by an impersonator who accessed confidential data.
+The attacker sold social security and credit card numbers of 200 million US residents before being sentenced.
+
+T-Mobile and Brute Force Attacks:
+
+In 2021, T-Mobile was breached via brute force attacks, exposing personal and device information of over 50 million customers.
+The company faced a $500 million lawsuit and committed substantial funds to improve security.
+These cases illustrate common cybersecurity threats such as phishing, social engineering, unpatched vulnerabilities, and brute force attacks, highlighting the importance of robust security practices.
+
 
 
 

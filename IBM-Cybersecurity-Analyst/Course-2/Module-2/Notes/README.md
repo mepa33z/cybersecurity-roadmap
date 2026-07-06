@@ -116,3 +116,145 @@ Firewalls use inbound and outbound rules to control traffic based on IP addresse
 Effective firewall configuration involves planning to balance security and functionality, often starting with denying all traffic except what is explicitly allowed.
 
 
+This course item focuses on best practices for device usage and security to reduce cybersecurity risks.
+
+Security Threat Validation and Device Usage:
+
+Device and Software Sources:
+
+Always obtain software, cloud services, device drivers, and firmware updates from legitimate sources such as vendor app stores, authorized resellers, OEMs, and software manufacturers.
+Avoid pirated software, untrusted sources, and jailbreaking or rooting devices, as these increase vulnerability to malware.
+
+Driver and Firmware Updates:
+
+Use drivers and firmware updates provided directly by original equipment manufacturers (OEMs) like Dell, HP, and Samsung.
+Be cautious with third-party sites offering drivers; only use reputable ones for obsolete hardware after thorough research.
+
+Malware Prevention and Software Management:
+
+Uninstall unused or unwanted software, including pre-loaded bloatware, to reduce vulnerabilities.
+Use reputable anti-malware software and enable automatic updates; Windows Defender is a free option integrated with Windows firewall.
+
+Safe Usage Practices:
+
+Avoid visiting questionable or non-HTTPS websites, downloading from file-sharing sites, inserting unknown storage devices, and clicking suspicious email links or attachments.
+Use VPNs, firewalls, and keep software up to date to maintain device security.
+
+Key Takeaways:
+
+Apps, drivers, and firmware should come from trusted sources.
+Rooting or jailbreaking devices increases security risks.
+Malware removal tools are available for free from reputable antivirus companies.
+Maintaining updated antivirus, firewall, and VPN software is essential for device safety.
+
+
+Security Threats Encryption Concept:
+
+This course item explains the fundamental concepts of encryption, its types, and its applications in cybersecurity.
+
+Encryption Basics:
+
+Encryption transforms readable plain text into scrambled ciphertext using algorithms called ciphers and requires keys for encryption and decryption.
+Data can be encrypted at rest (stored data) or in motion (data being transmitted), with different methods and security considerations for each.
+
+Types of Encryption:
+
+Symmetric encryption uses a single key for both encrypting and decrypting data, making it efficient for large data but challenging to keep the key secret.
+Asymmetric encryption uses a public key for encryption and a private key for decryption, suitable for smaller data and secure key exchange, authentication, and digital signatures.
+
+Cryptographic Hashing and Use Cases:
+
+Cryptographic hashes create a fixed-length string from data, which changes if the data is altered, helping verify data integrity and authenticate information.
+Encryption is widely used in industries requiring data protection, such as healthcare and education, and is implemented in operating systems, VPNs, HTTPS websites, and digital certificates.
+
+
+This lecture focuses on managing email effectively, understanding spam, and recognizing phishing scams to enhance cybersecurity.
+
+Email Management:
+
+Organize your inbox by keeping it clean, using folders and subfolders, and applying rules or filters to sort emails automatically.
+Unsubscribe from unwanted email lists and disable email notifications to reduce distractions and improve productivity.
+
+Spam and Its Risks:
+
+Spam is unsolicited bulk digital communication, often used by marketers and cybercriminals to advertise or spread malware.
+Use email settings, throwaway accounts, and desktop mail apps with blocking features to reduce spam; be cautious when unsubscribing as it may confirm your email address to spammers.
+
+Phishing Scams:
+
+Phishing involves fraudulent emails designed to steal personal information by creating a sense of urgency or fear.
+Avoid clicking links or opening attachments in suspicious emails; check for typos, fake logos, and URLs, and verify by visiting official websites directly.
+
+
+Encryption is a fundamental security technique that protects sensitive data by converting it into an unreadable format, ensuring confidentiality and integrity both when data is stored and transmitted.
+
+Importance and Use Cases of Encryption:
+
+Encryption safeguards business data, including customer information and financial records, helping organizations comply with regulations like GDPR.
+It secures mobile devices, communication channels such as email and messaging, and meets industry-specific compliance requirements for protecting sensitive information.
+
+Methods for Encrypting Data at Rest:
+
+File-level encryption allows selective protection of individual files or folders, offering granular control.
+Disk-level encryption secures entire storage devices, including operating systems and applications, with tools like BitLocker and FileVault.
+Mobile device encryption protects data on smartphones and tablets.
+Database encryption targets sensitive data within databases at various levels, such as entire databases or specific fields.
+
+Encryption for Data in Transit:
+
+Email encryption ensures that messages and attachments are readable only by intended recipients using protocols like S/MIME and PGP.
+HTTPS encrypts web traffic to protect sensitive online transactions.
+VPNs create encrypted tunnels for secure internet traffic over public networks.
+Mobile applications use encryption to secure data exchanged with servers.
+
+Best Practices for Encryption Implementation:
+
+Effective encryption requires strong key management, regular updates to protocols, and adherence to current security standards.
+Organizations should encrypt data both at rest and in transit, conduct regular audits, and train employees on encryption practices.
+
+
+This course content focuses on best practices for password management to enhance cybersecurity.
+
+Password Strength and Risks:
+
+Strong passwords should be 12-16 characters long, prioritizing length over complexity, and include uppercase, lowercase, numbers, and special characters.
+Avoid password reuse and default credentials, as these increase vulnerability across multiple accounts if one is compromised.
+
+Password Privacy and Reset:
+
+Keep passwords private, avoid sharing, and be cautious of shoulder surfing and insecure networks.
+Use secure password reset processes by initiating resets from official sites and being wary of phishing attempts.
+
+Password Managers and Authentication:
+
+Password managers generate and store strong, unique passwords securely, with features like auto-fill and breach monitoring.
+Implement multifactor authentication (MFA) to add security layers beyond passwords, and use single sign-on (SSO) carefully to balance convenience and risk.
+
+Account Privileges and Policies:
+
+Apply the principle of least privilege by limiting administrative rights and permissions to necessary tasks only.
+Develop balanced password policies and educate users to avoid insecure workarounds and recognize phishing threats.
+
+
+This course content focuses on essential cybersecurity practices to protect computers, data, and networks from threats.
+
+Password and Authentication Security
+
+Use strong passwords combined with multifactor authentication to effectively prevent phishing attacks and breaches.
+Avoid password reuse and sharing, and enforce policies to maintain password security.
+
+Access Control and Monitoring:
+
+Restrict permissions to prevent unauthorized access, copying, or modification of data.
+Monitor server logs and other data sources to detect suspicious activity and support forensic investigations after breaches.
+
+System and Network Protection:
+
+Keep applications and operating systems updated with patches and disable unused services, ports, and default credentials.
+Use firewalls to block unauthorized connections, VPNs and encryption to secure data in transit, and uninstall unused software to reduce vulnerabilities.
+
+Data Encryption and Management:
+
+Understand the difference between plain text (unencrypted) and ciphertext (encrypted) data, and apply encryption to data at rest and in motion.
+Organize emails with folders and rules, and be cautious of phishing emails that use poor grammar, intimidation, or suspicious links to steal information.
+

@@ -53,6 +53,57 @@ Website Security and Browser Updates:
 
 SSL certificates authenticate websites and enable encrypted connections (HTTPS), helping ensure site legitimacy.
 Browsers update automatically to patch vulnerabilities, which is critical since browsers are common attack targets.
-Proper management of cookies, extensions, and updates helps maintain data security during browsing.
+Proper management of cookies, extensions, and updates helps maintain data security during browsing
+
+
+This course item focuses on safe browsing techniques to protect users from security threats online.
+
+Autofill and Browser Storage
+
+Autofill helps by remembering passwords, payment data, and addresses to save time when filling forms.
+Browser cache stores downloaded web pages for faster loading, but large caches can slow performance; browser history tracks visited sites but can be a privacy risk.
+Private Browsing and Identifying Safe Websites
+
+Private browsing mode does not save history, cookies, or form data after the session, but does not hide activity from employers or ISPs.
+Safe websites use HTTPS, have trust seals, clear contact information, and positive reviews; malicious sites often mimic real ones with subtle URL changes or poor design.
+Adware, Redirects, and Browser Security
+
+Adware displays unwanted ads, collects data, and can degrade system performance; it often comes bundled with apps.
+Redirects caused by adware or malware lead users to unsafe sites or ads.
+Keeping browsers, operating systems, and security tools updated and running scans helps prevent hijacking and malware infections.
+
+
+This course item explains the concept, types, and components of Virtual Private Networks (VPNs) and the Internet Protocol Security (IPSec) suite used to secure data transmission.
+
+VPN Types and Functionality
+
+VPNs create encrypted tunnels between two or more sites, making intercepted traffic unreadable and protecting against eavesdropping, man-in-the-middle, and replay attacks.
+Types of VPN connections include site-to-site (connecting two networks), host-to-site (connecting a remote user to a network), and host-to-host (connecting two remote users directly).
+VPN Hardware and Software
+
+VPNs can be hardware-based using devices like routers, firewalls, and VPN concentrators, or software-based, integrated into operating systems and browsers.
+Hardware VPNs are often used for site-to-site connections, while software VPNs are common for host-to-site and host-to-host connections.
+IPSec Suite and Security Features
+
+IPSec is a suite of protocols that use cryptography to protect internet data, with core protocols Authentication Header (AH) for authentication and Encapsulating Security Payload (ESP) for encryption and authentication.
+IPSec operates in tunnel mode (encrypting entire packets, common in site-to-site VPNs) and transport mode (encrypting only packet content, common in host-to-site VPNs), providing data integrity, confidentiality, anti-replay protection, and secure key exchange.
+
+
+This course content focuses on securing apps, devices, and browsing activities to protect sensitive data from cyber threats.
+
+Security Measures for Devices and Apps
+
+Use strong passwords, antivirus software, VPNs, and firewalls to secure devices and applications.
+Employ multifactor authentication and additional security layers to enhance protection.
+Risks of Public and Online Browsing
+
+Public WiFi is insecure; hackers can intercept data sent or received in plain text.
+Hackers target social networking sites, messaging services, and browsers as entry points.
+Browser Security and Privacy Practices
+
+Keep browsers and extensions updated to avoid exploits.
+Manage privacy settings like cookies, cache, and browsing history; use private browsing to limit data storage.
+Verify website security certificates by clicking the lock icon in URLs.
+Be cautious with autofill storing personal/payment info and adware that can track activity or link to malicious sites.
 
 

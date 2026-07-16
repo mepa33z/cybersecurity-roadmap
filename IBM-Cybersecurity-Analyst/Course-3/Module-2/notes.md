@@ -155,3 +155,137 @@ For best protection, it should be used alongside other security measures like in
 
 
 
+This course content explains social engineering attacks, which exploit human psychology rather than technical system vulnerabilities, focusing on motivations like greed and fear.
+
+Social Engineering Attack Scenarios:
+
+Spear phishing targets individuals with personalized emails based on research from social media and other sources to steal credentials by tricking victims into entering their user ID and password on fake websites.
+Fear-based attacks involve calling victims with urgent malware warnings, convincing them to download malicious software (like a remote access trojan) that gives attackers control over their systems.
+
+Prevention Techniques:
+
+Technical measures such as secure DNS services (e.g., Quad9) can block access to known malicious websites.
+Multifactor authentication adds an extra layer of security beyond just user ID and password.
+User education and training are critical to help individuals recognize and resist social engineering tactics by developing critical thinking skills.
+
+Advanced Social Engineering with AI:
+
+Attackers can use AI-generated deepfake audio to impersonate executives, creating convincing urgent messages to trick employees into leaking intellectual property.
+Verification through multiple channels and strict policies against sharing confidential information via personal email can help prevent such attacks.
+Overall, social engineering attacks exploit human vulnerabilities, and while technology can help, strengthening user awareness and critical thinking is essential for defense.
+
+
+
+Types of social engineering: 
+
+Phishing:
+
+Phishing is a fraudulent attempt to obtain sensitive information by masquerading as a trustworthy entity through electronic communication. Typically, attackers mass-distribute emails, hoping to trick recipients into providing personal data or clicking malicious links.
+
+Phishing schemes are used to steal credentials. They often involve counterfeit versions of legitimate login pages designed to deceive individuals into submitting their usernames and passwords. In more sophisticated instances of these schemes, the stolen information is immediately used to access the actual site, preventing victims from realizing that their login attempt has failed.
+
+Spear phishing:
+
+Spear phishing is a more targeted version of phishing where attackers tailor their approach to a specific individual or organization. It involves personalized emails that appear credible enough to deceive the target into sharing confidential information.
+
+Whaling:
+
+Whaling attacks are a form of spear phishing that specifically targets high-profile individuals like CEOs or CFOs, the "big fishes" in an organization. Whalers often create highly sophisticated and executive-specific lures to acquire sensitive data or money.
+
+Vishing:
+
+Vishing, or voice phishing, uses phone calls instead of emails to scam individuals. The attacker pretends to represent a legitimate institution to lure individuals into providing personal, financial, or security information.
+
+Tailgating:
+
+Tailgating is another form of social engineering. This physical security breach occurs when an attacker exploits a moment when a controlled entry point is opened by an authorized individual.
+
+Impersonation:
+
+In impersonation, an attacker adopts a false identity to deceive individuals or organizations into granting access to restricted areas or divulging sensitive information. This technique may involve posing as technical support personnel, company employees, or trusted vendors.
+
+Dumpster diving:
+
+Dumpster diving, though not typically categorized as a social engineering attack, is a simple but highly effective method for acquiring confidential information. This attack involves searching through an individual's or company's discarded items for valuable data. Surprisingly, waste bins can reveal a lot of insight into an organization as they contain discarded letters, notes, and reports.
+
+Shoulder surfing:
+
+Shoulder surfing involves directly observing a person's private information by peering over their shoulder, a practice commonly seen when an individual is entering sensitive data, such as passwords. While this term traditionally refers to the physical act of spying, similar strategies include using reflective surfaces to view credentials.
+
+Hoax:
+
+A hoax involves the distribution of false alarms or misinformation to deceive, create panic, or manipulate individuals. Typically, a hoax might incite users to install unnecessary software or perform certain actions based on the fabricated information.
+
+Watering hole attack:
+
+A watering hole attack operates by lying in wait at locations frequently visited by the target. Just like predators in the wild wait at watering holes for their prey, cybercriminals identify and compromise websites that are popular with their intended victims. Unlike redirection attacks that steer users to malicious websites, watering hole attacks compromise a legitimate website that the attackers know their targets are likely to visit. Once the website frequented by the targets is identified, attackers concentrate their efforts on that site. They potentially exploit vulnerabilities within the site's security or infect it through indirect methods, such as compromised ad networks, to deliver malware to unsuspecting users.
+
+
+
+This course content explains phishing attacks, their social engineering tactics, types, and how to defend against them.
+
+Phishing and Social Engineering:
+
+Phishing attacks use social engineering to manipulate victims into taking immediate actions, such as clicking on malicious links.
+The goal is often to steal credentials, infect systems with malware, or gather personal information for fraud.
+
+Types of Phishing Attacks:
+
+General phishing targets a broad audience indiscriminately.
+Spear phishing is a targeted attack with personalized messages relevant to the victim.
+Whaling targets high-level executives with highly detailed and specific messages.
+Other forms include SEO poisoning (fake websites ranked high in search results) and smishing (phishing via SMS).
+
+Defenses Against Phishing:
+
+Always stop and think before clicking links or opening files, especially if the message seems too good to be true or unexpected.
+Avoid clicking links from unknown or suspicious sources, as email addresses can be spoofed.
+Keep systems patched and updated to prevent exploitation of vulnerabilities.
+Use antivirus, endpoint detection, email security programs, and secure DNS services (like IBM's Quad9) to block access to known phishing and malware sites.
+
+
+
+This lecture explores the evolving sophistication of phishing attacks, comparing human-generated phishing emails with those created by generative AI, and discusses strategies to defend against these threats.
+
+Phishing Email Comparison:
+
+Generative AI can quickly produce phishing emails tailored to specific industry concerns using social engineering and marketing techniques.
+Human-generated phishing emails, crafted using open source intelligence and designed with urgency and brevity, slightly outperform AI in fooling recipients but take much longer to create.
+
+Phishing Attack Evolution and Challenges:
+
+Generative AI phishing emails have good grammar and relevance, making traditional clues like poor language less reliable.
+Phishing attacks are expanding beyond email to include voice (vishing) and SMS (smishing) attacks, often using sophisticated methods like deepfake voices.
+
+Defensive Measures Against Phishing:
+
+Users should verify suspicious communications through out-of-band methods such as independent phone calls to the purported sender.
+Traditional advice like checking for bad grammar or irrelevant content needs updating; instead, focus on verifying links and using strong identity and access management, including passwordless authentication and multifactor authentication.
+Continuous adaptation and vigilance are essential as phishing techniques become more advanced with AI improvements.
+
+
+
+This course content focuses on methods to prevent both digital and physical social engineering attacks, emphasizing a combination of technical measures and employee awareness.
+
+Preventing Digital Social Engineering Attacks:
+
+Implement multifactor authentication (MFA) to add layers of security beyond passwords.
+Monitor network traffic and verify sender identities to detect suspicious activities and authenticate communications.
+
+Technical Security Measures:
+
+Use secure socket layer (SSL) certificates to encrypt data and ensure secure online communications.
+Perform penetration testing to identify vulnerabilities and apply security patches promptly.
+
+Email and Data Protection:
+
+Enable spam filters to reduce exposure to phishing and malicious emails.
+Be cautious about digital footprints, as shared information can be exploited by attackers.
+
+Preventing Physical Social Engineering Attacks:
+
+Conduct awareness training to educate employees about tactics like shoulder surfing and encourage protective behaviors.
+Secure disposal practices and access control measures help prevent information theft and unauthorized physical entry.
+
+
+

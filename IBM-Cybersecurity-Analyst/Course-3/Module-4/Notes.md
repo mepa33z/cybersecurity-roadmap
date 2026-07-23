@@ -155,3 +155,26 @@ Passkeys offer better security and usability, and users are encouraged to adopt 
 
 
 
+Physical cybersecurity control methods and tools are essential for safeguarding hardware, facilities, and sensitive data against physical threats and environmental hazards.
+
+Physical Security Measures:
+
+On-premises security utilizes smart locks, CCTV, security personnel, fencing, and mantrap doors to control and monitor facility access.
+Server rooms are protected through biometric access controls, rack locks, video surveillance, and tamper detection sensors.
+
+Environmental and Device Protection:
+
+Environmental safety is maintained via climate control systems, ESD protection, power surge protectors, backup power supplies, and water detection systems.
+Device security involves using cable locks, port locks, screen filters, hard disk encryption, and asset tracking to prevent theft and unauthorized access.
+
+Advanced Security Solutions:
+
+Cutting-edge technologies include drone detection systems, robotic security guards, and AI-based security systems to detect and respond to threats in real time.
+Intelligent perimeter security systems leverage AI and machine learning to differentiate between harmless activity and potential security breaches.
+
+
+
+
+
+
+
